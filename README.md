@@ -46,6 +46,7 @@ University's Digital Collections and Archives, Medford, MA, USA. Permanent URL: 
 * Cavallo, G., Nicolaj, G., et al., editors (1997-2019). *Chartae Latinae Antiquiores: facsimile edition of the Latin charters, 2nd series: ninth century*. Urs Graf Verlag, Dietikon, Zürich, Switzerland.
 
 * Cecchini, F. M., Korkiakangas, T. and Passarotti, M. (2020). A New Latin Treebank for Universal Dependencies: Charters between Ancient Latin and Romance Languages. In *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC2020)*, Marseille, France, May. European Language Resources Association (ELRA).
+DOI: 10.5281/zenodo.3862154
 
 * Cecchini, F. M., Passarotti, M., Marongiu, P., and Zeman,
 D. (2018). Challenges in Converting the Index Thomisticus Treebank into Universal Dependencies. In *Proceedings of the Second Workshop on Universal Dependencies
