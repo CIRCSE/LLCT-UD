@@ -31,7 +31,10 @@ A total of **242411 tokens** is thus subdivided into three sets of **194143** (`
 
 # Acknowledgements
 
-The conversion of the LLCT2 into the Universal Dependencies was realized by Flavio Massimiliano Cecchini and Marco Passarotti within the LiLa project (Linking Latin, https://lila-erc.eu/). The original LLCT2 was annotated by Timo Korkiakangas under projects funded by the University of Oslo and the Academy of Finland.
+The conversion of the LLCT2 into the Universal Dependencies was realized by Flavio Massimiliano Cecchini and Marco Passarotti within the LiLa project (Linking Latin, https://lila-erc.eu/). 
+    * The LiLa: Linking Latin project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
+
+The original LLCT2 was annotated by Timo Korkiakangas under projects funded by the University of Oslo and the Academy of Finland.
 
 # References
 
@@ -65,8 +68,5 @@ in the Humanities: Proceedings of the ACRH Workshop, Heidelberg, 5. Jan. 2012*. 
 
 # Credits
 
-Contributors: Korkiakangas, Timo; Cecchini, Flavio Massimiliano; Passarotti, Marco
-Contact: flavio.cecchini@unicatt.it, timo.t.korkiakangas@gmail.com, marco.passarotti@unicatt.it
-
-     
-The LiLa: Linking Latin project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
+Contributors: Timo Korkiakangas, Flavio Massimiliano Cecchini, Marco Passarotti
+Contact: timo.t.korkiakangas@gmail.com, flavio.cecchini@unicatt.it, marco.passarotti@unicatt.it
